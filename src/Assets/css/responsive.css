@@ -1,0 +1,139 @@
+@media (min-width: 1200px) {
+	.container {max-width: 1170px;}
+}
+@media (min-width: 1400px) {
+	.container {max-width: 1370px;}
+}
+@media (min-width: 1500px) {}
+@media (max-width: 1366px) {
+	.card_.img {
+		border: 1px solid #fff;
+		width: 100%;
+		height: 250px;
+		overflow: hidden;
+	}
+	
+}
+@media (max-width: 1280px) {}
+@media (max-width: 1199px) {
+	.wallStak {
+		display: block;
+		text-align: center;
+	}
+	.stackForm {
+		display: block;
+		text-align: center;
+	}
+	.stackForm input {
+		width: 68%;
+		margin-bottom: 20px;
+		text-align: center;
+	}
+	.card_.img {height: 190px;}
+	.claim p, .wallStak p {
+		font-size: 17px;
+	}
+	
+}
+@media (max-width: 1024px) {
+	.depositCardList>li {
+    width: 45%;}
+}
+@media (max-width: 991px) {}
+@media (max-width: 860px) {}
+@media (max-width: 768px) {
+	.card_.img {
+		height: 137px;
+	}
+}
+@media (max-width: 767px) {
+	h2.title {font-size: 27px;}
+	.card_ {    margin: 35px 0px 0px 0px;}
+	.groupSect {padding: 2px;	margin: 0;	}
+	.footer-links{flex-wrap: wrap; justify-content: center;}
+	.copyrightCol{text-align: center;}
+	.depositCardList>li { width: 100%;}
+	.footer-links li { padding: 0px 5px;}
+    .amtBtnList li {padding: 3px;}
+	button.btn.btnIc img {width: 16px;}
+	button.btn.btnIc {padding: 0;width: 30px;min-height: 36px !important;}
+	.container, .container-sm {max-width: 710px;}
+	ul.styleImgSection li {width: 48.2%;}
+	h4.nftSec {padding-top: 40px;}
+	.bg-gray.gdfgh { margin: 0; padding: 14px;}
+	button.btn.btn_border {margin-top: 15px;}
+	ul.properties li {
+		background: #252432;
+		padding: 10px;
+		margin: 3px;
+		border-radius: 5px;
+		width: 48%;
+		float: left;
+	}
+	ul.properties li .fa-xmark {right: -137px;}
+	
+	ul.styleImgSection li {width: 47.2%;height: 142px;}
+	.gnBtn {display: block;}
+	.gnBtn .noOfImages{margin-bottom: 5px;}
+	.subForm input.form-control {right: 0;}
+	.subForm {display: block; width: 100%;}
+	.subForm button.btn {width: 100%; border-radius: 6px;}
+	.bg-gray.gdfgh.align-center {margin: 30px auto;text-align: center;width: 100%;padding: 40px 10px;}
+	button.btn {
+		min-width: 140px;
+		margin-bottom: 10px;
+		padding: 10px;
+		min-height: 15px;
+	}
+	.selectNft .groupSect {
+		padding: 32px;
+		margin: 10px 5px;
+	}
+	.card_.img {
+		height: 247px;
+	}
+	.btnSection .btn {
+		margin-left: 0;
+	}
+	.stackForm input{
+		width: 100%;
+	}
+	ul.dashBoardCount {	display: inline-block;	}
+	ul.dashBoardCount li {
+		width: 100%;
+		margin: 0;
+		margin-bottom: 6px;
+	}
+	.groupSect .card_.img {
+		margin-bottom: 0 !important;
+	}
+	.nav-tabs li.nav-item {
+		width: 100%;
+	}
+	.header-logo img {
+		height: 48px;
+		position: relative;
+		top: 4px;
+	}
+	.mainSection {padding-top: 120px;}
+}
+@media (max-width: 575px) {
+	.btn, .btn-green{padding: 8px 14px;}
+	.navbar-navRight li {margin-right: 10px;}
+	.staking-nav-menu .icon-squared-menu{width: 50px;}
+	header .navbar{    -ms-flex-flow: row nowrap;
+    flex-flow: row nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;}
+	.navbar-expand-sm .navbar-nav{flex-direction: row;}
+	.navbar-nav .btn{width: auto; min-width: auto;}
+
+
+}
+@media (max-width: 480px) {
+	.navbar-nav .nav-item .ic_{margin: 0;}
+	.navbar-nav .ic_text_{display: none;}
+
+}
+@media (max-width: 414px) {}
+@media (max-width: 375px) {}
